@@ -10,7 +10,7 @@ const characters = [
   'LOBO-GUARA',
   'cuxio',
   'ariranha',
-  'ariranha',
+  'boto',
   'ararajuba',
   'gato-do-mato',
 ];
