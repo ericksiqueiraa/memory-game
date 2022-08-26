@@ -11,8 +11,8 @@ const characters = [
   'cuxio',
   'ariranha',
   'boto',
-  'ararajuba',
   'gato-do-mato',
+  'baleia-franca',
 ];
 
 const createElement = (tag, className) => {
