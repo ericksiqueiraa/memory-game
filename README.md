@@ -11,9 +11,9 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-git clone https://github.com/ericksiqueiraa/space-y
+git clone https://github.com/ericksiqueiraa/memory-game
 
-cd space-y
+cd memory-game
 ```
 
 ## 🔖 Layout
